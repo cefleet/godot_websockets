@@ -1,0 +1,8 @@
+{
+    "name": "godot-websocket-",
+    "main": "app.js",
+    "dependencies": {
+        "node-uuid": "*",
+        "ws": "*"
+    }
+}
